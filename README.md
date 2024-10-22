@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chile</h1>
 <h3 align="center">A Junior Data Engineer</h3>
 
+I am a data engineer with a maths background interested in the application of mathematical ideas to data analysis.
+
 - 📫 How to reach me **chilese@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
