@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Chile</h1>
 <h3 align="center">A Junior Data Engineer</h3>
 
-I am a data engineer with a maths background interested in the application of mathematical ideas to data analysis.
+# Junior Data Engineer Portfolio
+
+Welcome to my GitHub portfolio! I'm passionate about leveraging data to drive decision-making and improve outcomes. Here's a snapshot of my journey and what you can expect to find here.
+
+## About Me
+I am a dedicated Junior Data Engineer with a robust background in data analysis, programming, and statistical modeling. My education includes a Master and Bachelor of Mathematical Sciences from the Norwegian University of Science and Technology, where I honed my skills in Python, R, SQL, and various data analysis tools.
+
+## Projects
+
+1. Multinational Data Centralization Pipeline:
+   a. Aggregated data from multiple sources and centralized it for streamlined analysis.
+   a. Developed a robust ETL process to ensure data quality and consistency.
+
+## Contact Info
 
 - 📫 How to reach me **chilese@outlook.com**
 
